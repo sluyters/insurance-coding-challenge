@@ -42,4 +42,7 @@ The reference date is November 5, 2025, meaning that the notice period can end o
 As such, the earliest possible termination date is January 5, 2026, which is compatible with the earliest expected termination date provided by the policy holder (December 5, 2025).
 
 ### Running the tests
-In the root directory, run `python -m unittest`
+In the root directory, run 
+```
+python -m unittest
+```
